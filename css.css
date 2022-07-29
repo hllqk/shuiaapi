@@ -1,0 +1,45 @@
+html, body{
+    		height: 100%;
+    	}
+    	body{
+            display: flex;
+    		justify-content: center;
+    		align-items: center;
+    	}
+       font
+       {
+           color: #45BCFF;
+           }
+       input
+    {
+    background-color: transparent;
+    outline:none;
+    border: none;
+    }
+    	.mdui-card{
+    		width: 300px;
+    		border-radius: 10px;
+    	}
+           h2,p
+       {
+           color: #5DB1FF;
+       }
+       h3{
+           color: #5D84FF;
+       }
+       textarea
+       {
+       white-space:normal;
+       word-break:break-all;
+       word-wrap:break-word; 
+       width: 250px;
+       background-color: transparent;
+       border: none;
+       resize: none;
+       outline:none;
+       height:300px;
+       }
+       a{
+    font-size: 20px;
+    color: #5DB1FF;
+    }
