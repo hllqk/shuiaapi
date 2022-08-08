@@ -6,6 +6,10 @@
 [滑稽]默认账号:shuia  
 [滑稽]默认密码:123456  
 [滑稽]大小:约150kb  
+<img src="http://cdn.u1.huluxia.com/g4/M03/66/FB/rBAAdmHyay2AK0pnAAFcVkLtXvI683.jpg" alt="" />
+<img src="http://cdn.u1.huluxia.com/g4/M03/66/FC/rBAAdmHyazOAZSNLAAFBYxPkOF0224.jpg" alt="" />  
+<img src="http://cdn.u1.huluxia.com/g4/M01/68/7D/rBAAdmHzh8qAWnOYAADsDI7zYlE236.jpg" alt="" />
+<img src="http://cdn.u1.huluxia.com/g4/M03/66/FC/rBAAdmHyazWAKGm6AAE9q9OcLlY285.jpg" alt="" />  
 -----------------------------------分割线--------------------------------------  
 [滑稽]继上一个帖子#直播，利用某软件做图床#  
 [滑稽]演示地址:http://api.shui.tk/  
@@ -49,10 +53,10 @@
 　Ｌ＿＿＿＿|／  
 程[玫瑰]  
 ---------------------------------使用教程------------------------------------
-PHP要求至少5.6
-1.修改config.php里面的参数，都有注释，照着填
-2.关于$hlqkey填葫芦侠key应该都会抓包吧，不会百度
-3.然后访问index.php就可以看到效果了
+PHP要求至少5.6  
+1.修改config.php里面的参数，都有注释，照着填  
+2.关于$hlqkey填葫芦侠key应该都会抓包吧，不会百度  
+3.然后访问index.php就可以看到效果了  
 ---------------------------------自言自语------------------------------------
 [心碎]MDUI等CSS，JS文件应占用内存储存在云端  
 [心碎]有config.php，自定义性还行，图片均为MD5加密  
